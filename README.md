@@ -1,5 +1,12 @@
 # 🩺 **Understanding Diabetes with Data Mining**
 
+<div align="center">
+
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/devarchanadev/Understanding-Diabetes-leveraging-Data-Science)
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-green?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)
+
+</div>
+
 ## Click below to jump to the section to view:
 
 <p align="center">
