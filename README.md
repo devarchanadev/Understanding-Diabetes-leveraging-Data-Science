@@ -1,4 +1,4 @@
-# 🩺 **Understanding Diabetes with Data Mining**
+# 🩺 **Understanding Diabetes with Statistical Modeling**
 
 <div align="center">
 
